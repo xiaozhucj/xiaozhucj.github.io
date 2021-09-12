@@ -9,7 +9,7 @@
       <p><b>地址：重庆市南岸区崇文路2号</b></p>
     </td>
     <td width="25%">
-      <img src="./zhuchangjie.jpg" width="100%">      
+      <img src="/zhuchangjie.jpg" width="100%">      
     </td>
   </tr>
   <table border="1">
