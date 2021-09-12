@@ -1,11 +1,5 @@
 <table border="0">
-   <tr>
-      <h1>研究方向</h1>
-      <p><b>医学图像处理</b></p>
-  </tr>
-  <tr>
-      <h1>荣誉奖项</h1>
-  </tr>
+
   <tr>
     <td width="75%">
       <h1>朱常杰</h1>
@@ -18,6 +12,13 @@
       <img src="/zhuchangjie.jpg" width="100%">      
     </td>
   </tr>
-  
+  <table border="1">
+    <tr>
+      <h1>研究方向</h1>
+      <p><b>医学图像处理</b></p>
+  </tr>
+  <tr>
+      <h1>荣誉奖项</h1>
+  </tr>
   
 </table>
