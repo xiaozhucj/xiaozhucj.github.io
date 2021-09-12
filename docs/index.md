@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
 
-You can use the [editor on GitHub](https://github.com/zhuchangjie1/xiaozhu.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="menu" style="background-color:#AFEEEE;height:1000px; width:1080px;float:left;">
+<table border=5 bordercolor=black cellspacing=0 align=center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>姓名</b></font></td>
+<td width=120 colspan=2 align=center><font face=华文行楷 size=6>朱常杰</font></td>
+<td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>性别</b></font></td>
+<td width=120 colspan=2 align=center><font face=华文行楷 size=6>男</font></td>
+<td width=180  rowspan=4
+><font size=5><img  border=0 src=/zhuchangjie.jpg alt="Eternally" width="180" height="240"></td></tr>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr height=60 bgcolor=#AFEEEE align=center>
+<td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>学历</b></font></td>
+<td width=120 colspan=2 align=center><font face=华文行楷 size=6>硕士研究生</font></td>
+<td width=120 colspan=2 align=center><font face=微软雅黑 size=6><b>专业</b></font></td>
+<td width=120 colspan=2 align=center><font face=华文行楷 size=6>通信工程</font></td>
+</tr>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<tr height=60 bgcolor=#AFEEEE align=center>
+<td width=120  colspan=2 align=center><font face=微软雅黑 size=6><b>院校</b></font></td>
+<td width=120 colspan=8 align=center><font face=华文行楷 size=6>重庆邮电大学</font></td>
+</tr>
 
-- Bulleted
-- List
+<tr height=60 bgcolor=#AFEEEE align=center>
+<td width=120  colspan=2 align=center><font face=微软雅黑 size=6><b>地址</b></font></td>
+<td width=120 colspan=8 align=center><font face=华文行楷 size=6>重庆市南岸区崇文路2号</font></td>
+</tr>
 
-1. Numbered
-2. List
+<tr height=60 bgcolor=#AFEEEE align=center>
+<td width=120  colspan=2 align=center><font face=微软雅黑 size=6><b>邮箱</b></font></td>
+<td width=120 colspan=8 align=center><font face=华文行楷 size=6><pre>940388503@qq.com</pre></font></td>
+</tr>
 
-**Bold** and _Italic_ and `Code` text
+<tr height=150 bgcolor=#AFEEEE align=center>
+<td width=120 colspan=2 align=center><font face=微软雅黑  size=6><b>研究方向</b></font></td>
+<td width=840  colspan=8><font face=华文行楷 size=6>
+<p>  <i>医学图像处理</i></p>
+</font></td></tr>
 
-[Link](url) and ![Image](src)
-```
+<tr height=180 bgcolor=#AFEEEE >
+<td width=120 colspan=2><font face=微软雅黑  size=6><b>荣誉奖项</b></font></td>
+<td width=840  colspan=8><font face=华文行楷 size=6>
+</font></td></tr>
+</table>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</body>
+</html>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhuchangjie1/xiaozhu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
